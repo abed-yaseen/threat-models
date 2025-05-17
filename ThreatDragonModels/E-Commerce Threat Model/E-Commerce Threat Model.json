@@ -1,0 +1,37 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "E-Commerce Threat Model",
+    "owner": "Abed Yaseen ",
+    "description": "This threat model focuses on the security of an e-commerce platform, covering user registration, product search, and payment processing.\n",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "User Registration and Authentication",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": [],
+        "description": "This diagram shows how users register, log in, and authenticate in the e-commerce platform."
+      },
+      {
+        "id": 1,
+        "title": "Payment Processing",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": [],
+        "description": "This diagram shows how the e-commerce platform handles payment processing, including data transfer, payment gateway interactions, and transaction validation."
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}

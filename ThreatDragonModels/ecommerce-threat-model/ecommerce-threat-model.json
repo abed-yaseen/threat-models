@@ -1,0 +1,27 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "ecommerce-threat-model",
+    "owner": "abed.yaseen",
+    "description": "A web-based e-commerce platform that allows users to browse products, manage a shopping cart, and perform secure payments using credit cards or third-party providers like PayPal.\n",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "ecommerce-system-overview",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": [],
+        "description": "This diagram represents the overall architecture of the e-commerce platform, including users, frontend, backend services, payment gateway, and database."
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Dr.nader salameh",
+    "threatTop": 0
+  }
+}
